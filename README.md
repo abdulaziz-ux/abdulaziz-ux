@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulaziz-ux
 - 👀 I’m interested in frontEnd Coding
 - 🌱 I’m currently learning AI programer
-- 😄 Pronouns: i can speak english and indonesia
+- 😄 Languange: i can speak english and indonesia and still learning Spanish
 
 <!---
 abdulaziz-ux/abdulaziz-ux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
